@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Beginn 12.09.2022 14:30 Uhr
-=======
-Beginn 14.09.2022 14:00 Uhr
->>>>>>> test-presentation-tool
+Beginn 17.10.2025 22:30 Uhr
 
-Ende 17:30 Uhr
+Ende 00:30 Uhr
 
 Agenda
